@@ -12,3 +12,31 @@ h1 {
     text-align: center;
     
 }
+
+
+.mycls{
+    background-color: red;
+    color:black;
+    border-style:dashed;
+    border :12px solid blue;     
+    font-size: 24px;   
+}
+
+/* creation of id . Its is used once in the document */
+#myid{
+
+    background-color:yellow;
+    color:rgb(59, 4, 238);
+    border:13px;
+    border-style: dotted;
+    font-size: 24px; 
+    font-weight: 3000;  
+}
+
+
+body{
+
+    background-image: url("uday.jpg");
+    background-repeat:no-repeat;
+    background: size 190cm;
+}
